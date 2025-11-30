@@ -24,7 +24,6 @@ all-features = true
 
 [dependencies]
 bitflags = "2.9.0"
-delog = "0.1.0"
 generic-array = "0.14"
 heapless = "0.9"
 littlefs2-core = { version = "0.1", path = "core" }
